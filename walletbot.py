@@ -91,7 +91,7 @@ def check_transactions(chain, wallet_address):
 
 # 主函数
 def main() -> None:
-    updater = Updater("7166071452:AAELcgpucqYkO4ayNddHHdkLMiPmNGQxGRg")
+    updater = Updater("8125347621:AAGalAJpNFf5XH53eoTl1R7p_E424GKl3Io")
     dispatcher = updater.dispatcher
 
     # 注册处理程序
